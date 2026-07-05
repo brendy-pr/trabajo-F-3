@@ -1,4 +1,4 @@
-"""Permite ejecutar la interfaz web con: python -m interfaz."""
+"""Permite ejecutar la interfaz con: python -m interfaz."""
 
 from interfaz.app import ejecutar_app
 
